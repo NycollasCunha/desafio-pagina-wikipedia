@@ -43,3 +43,7 @@ aside:not(.anchors) {
 figure {
   text-align: center;
 }
+
+hr {
+  color: #fff;
+}
