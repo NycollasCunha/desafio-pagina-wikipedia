@@ -4,7 +4,7 @@ html {
   padding: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-ul {
+.links-and-anchors {
   list-style: none;
   padding-left: 5px;
 }
